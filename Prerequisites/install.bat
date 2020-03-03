@@ -1,0 +1,2 @@
+pip install -r "C:\Users\mustakhan\Downloads\uipath-face-recognition-framework-master (1)\uipath-face-recognition-framework-master\Prerequisites\requirements.txt"
+python "C:\Users\mustakhan\Downloads\uipath-face-recognition-framework-master (1)\uipath-face-recognition-framework-master\Prerequisites\get_python_path.py"
